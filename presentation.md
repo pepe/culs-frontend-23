@@ -359,4 +359,210 @@ title: Hypermedia
 * Live Screen
 
 ===
+---
+author: Josef Pospíšil
+date: 2023-10-10
+title: Content
+---
 
+## Content
+
+---
+
+## Documents vs Data
+
+* Web
+* Apps
+* Examples
+
+---
+
+## HTML
+
+* History
+* Incarnations
+* HTML5
+
+---
+
+## XML
+
+* History
+* Not really human readable
+* Java world
+* Incarnations
+
+---
+
+## DOM
+
+* HTML & XML
+* Tree structure
+* Object Oriented
+* Live Screen
+
+---
+
+## JSON
+
+* History
+* Lingua Franca
+* API
+
+---
+
+## OpenGraph
+
+* Page Object
+* Social Graph
+
+---
+
+## Media
+
+* Images
+* Sound
+* Video
+
+---
+
+## Others
+
+* Markdown
+* SVG
+* Binary
+* Task some more
+
+---
+
+## HTML dissect
+
+* Head
+* Body
+* Elements
+
+---
+
+## Custom Elements
+
+* Your way
+* Customisable
+* Live Screen
+
+---
+
+## Accessibility
+
+* Aria
+
+---
+
+## Live Screen
+
+* HTML boilerplate
+* Project
+
+===
+---
+author: Josef Pospíšil
+date: 2023-10-10
+title: Presentation
+---
+
+## Presentation
+
+---
+
+## What we see
+
+* Sizes
+* Positions
+* Visuals
+
+---
+
+## Behaviour
+
+* Hovers
+* Animations
+* Transitions
+
+---
+
+## Media
+
+* Responsive
+* Special devices
+
+---
+
+## Tag attributes
+
+* Beginning
+* Each tag had their set
+* Browser dependent
+
+---
+
+## CSS
+
+* Separation
+* HTML, XML, SVG
+* History
+
+---
+
+## CSS structure
+
+* Selectors
+* Declarations
+* Properties
+
+---
+
+## Selectors
+
+* Tags
+* Ids, classes
+* Pseudo
+* Live Screen
+
+---
+
+## Preprocessor languages
+
+* SASS
+* Less
+* Stylus
+
+---
+
+## Frameworks
+
+* Bootstrap
+* Semantic
+* ZURB
+* Picnic
+
+---
+
+## Responsive design
+
+* Many sizes
+* Mobile first
+
+---
+
+## Google Material
+
+---
+
+## Microsoft Fabric
+
+---
+
+## Story - communication
+
+* UX
+* Response times
+* Optimistic updates
