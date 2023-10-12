@@ -30,6 +30,10 @@ Most of the communication will be here.
 ## Wednesday
 # TODO ADD
 
+## Thursday
+
+* [pepe's prez](https://shrouded-abiding-haze.glitch.me/)
+  
 # Friday
 
 Evaluation will be online. Link for the Google Meet will be here. We will meet there.
