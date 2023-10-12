@@ -27,3 +27,10 @@ Most of the communication will be here.
 * [Why your website should be under 14kB in size](https://endtimes.dev/why-your-website-should-be-under-14kb-in-size/)
 * [Glitch: The friendly community where everyone builds the web](https://glitch.com/dashboard)
 
+## Wednesday
+# TODO ADD
+
+# Friday
+
+Evaluation will be online. Link for the Google Meet will be here. We will meet there.
+
