@@ -566,3 +566,142 @@ title: Presentation
 * UX
 * Response times
 * Optimistic updates
+
+===
+---
+author: pepe
+date: 2023-10-11
+title: Scripting
+---
+
+## Scripting
+
+---
+
+## Addenum
+
+* Tailwind
+
+---
+
+## Glitch
+
+
+* IDE in browser
+* Instant shipping
+* Collaboration
+
+---
+
+## JavaScript
+
+* History
+* Proper name
+* The Browser Language
+
+---
+
+## Taxonomy
+
+* C family syntax
+* Prototype OOP
+* Functional
+
+---
+
+## node.js
+
+* Standalone runtime
+* Event loop
+* V8 engine
+
+---
+
+## NPM Packages
+
+* Whole universe
+* Almost everything
+* Usecase
+
+---
+
+## Popular FW
+
+* jQuery
+* React.js
+* Angular.js
+* Vue.js
+
+---
+
+## Next Level
+
+* Next.js
+
+---
+
+## Transpilers
+
+* Always JS on the end
+* Building
+* Webpack ,Gulp
+
+---
+
+
+## Tooling
+
+* Babel
+* Webpack
+* Vite.js
+
+---
+
+## Transpiled languages
+
+* CofeeScript ✝
+* TypeScript
+* Elm
+* ClojureScript
+* Reason
+
+---
+
+## Not only frontend
+
+* Node.js
+* npm
+* Next semester
+---
+
+## JS War
+
+* Node.js
+* Deno
+* Bun
+
+---
+
+## Q&A
+
+===
+---
+title: The Last
+date: 2023-10-12
+author: pepe
+---
+
+## The Last
+
+* Evaluation online
+* Repository link
+
+---
+
+## Project step by step
+
+---
+
+## pepe's out
+
+===
