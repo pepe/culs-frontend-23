@@ -40,14 +40,13 @@ Most of the communication will be here.
 * [Frontend Developer Roadmap: Learn to become a modern frontend developer](https://roadmap.sh/frontend)
 * [JavaScript Guide](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Introduction)
 
-## Wednesday
-# TODO ADD
-
 ## Thursday
 
 * [pepe's prez](https://shrouded-abiding-haze.glitch.me/)
   
 # Friday
 
-Evaluation will be online. Link for the Google Meet will be here. We will meet there.
+Evaluation will be online. The link for the Google Meet is 
+[https://meet.google.com/cxh-fyhi-tdt](https://meet.google.com/cxh-fyhi-tdt). 
+We will meet there at 9:30 2023/10/13.
 
