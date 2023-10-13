@@ -1,0 +1,129 @@
+
+body {
+  overflow: hidden;
+  height: 100vh;
+  width: 100vw;
+  font-family: "Sofia", sans-serif;
+
+color:#ffffff;
+}
+
+#btc{
+background: url(photo-1555949963-ff9fe0c870eb.jpg);
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+
+#tools {
+background-color: #40a35b;
+color: #d3d4ed;
+width: 100%;
+margin:0;
+}
+
+#restart {
+  display: none;
+}
+
+/* Element | https://shrouded-abiding-haze.glitch.me/ */
+
+#previousChapter {
+  display: none;
+}
+
+/* Element | https://shrouded-abiding-haze.glitch.me/ */
+
+#nextChapter {
+  display: none;
+}
+
+
+/* Element | https://shrouded-abiding-haze.glitch.me/ */
+
+#previousSlide {
+  /* font-size: 0; */
+}
+
+/* Inline #3 | https://shrouded-abiding-haze.glitch.me/ */
+
+.icon {
+  height:40px;
+  width: 45px;
+  font-size: 0;
+  background: none;
+  border: none;
+ background-repeat: no-repeat;
+}
+
+.icon.previous {
+  background-image: url("./Previous_l.svg");
+}
+
+.icon.next {
+  background-image: url("./Next_R.svg");
+}
+
+
+/* Inline #3 | https://shrouded-abiding-haze.glitch.me/ */
+
+.titles span {
+  display: none;
+}
+
+.titles span:first-child {
+  display: inline;
+}
+
+.tools {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  width: 90vw;
+  padding: 0;
+  position: fixed;
+  background-color: white;
+  top: 0;
+  z-index: 1;
+  width: 100%;
+  margin: 0;
+}
+
+.chapter {
+  display: flex;
+  transition: transform 500ms ease-in-out;
+}
+
+.chapter section {
+  height: 100vh;
+  width: 95vw;
+  display: flex;
+  justify-content: center;
+  flex-direction: column;
+  padding-left: 5vw;
+  align-items: center;
+  font-size: 3rem;
+}
+
+.blurred-box{
+background: rgba( 255, 255, 255, 0.25 );
+box-shadow: 0 8px 32px 0 rgba( 31, 38, 135, 0.37 );
+backdrop-filter: blur( 4px );
+-webkit-backdrop-filter: blur( 4px );
+border-radius: 10px;
+border: 1px solid rgba( 255, 255, 255, 0.18 );
+  margin: 5% 2% 0 2%;
+
+
+}
+
+h2{
+  color: blue;
+}
+
+ul{
+  color: black;
+}
+
+
+
