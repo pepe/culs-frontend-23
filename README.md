@@ -50,3 +50,11 @@ Evaluation will be online. The link for the Google Meet is
 [https://meet.google.com/cxh-fyhi-tdt](https://meet.google.com/cxh-fyhi-tdt). 
 We will meet there at 9:30 2023/10/13.
 
+The test is at https://forms.gle/PiHCguYWBNFo1EnKA.
+
+There are couple of options how to submit URL with your project:
+
+* Wired: make pull request to this repository with changes to (/urls.md).
+* Tired: send me an email to josef@pospisil.work.
+
+See you next semester! <3
