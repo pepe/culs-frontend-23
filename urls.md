@@ -6,3 +6,4 @@
 @BasantaBhujel - https://github.com/BasantaBhujel/basantapresentation.git
 @Hailemariam Getabalew Amtate - https://github.com/Getabalew7/presentation-2023
 @RobHaii - Mengesha, Robel Hayelom [repo link](https://github.com/RobHaii/culs-frontend-2023)
+@Gulomov Jaloliddin - (repository) https://github.com/gulomov/presentation-23 and (link ) https://jaloliddin-presentation-23.glitch.me/
